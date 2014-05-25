@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/fism/firstgem.svg?branch=master)](https://travis-ci.org/fism/firstgem)
-
+[![Coverage Status](https://coveralls.io/repos/fism/firstgem/badge.png)](https://coveralls.io/r/fism/firstgem)
 # FirstRuby
 
 TODO: Write a gem description
