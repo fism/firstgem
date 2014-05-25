@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/fism/firstgem.svg?branch=master)](https://travis-ci.org/fism/firstgem)
+
 # FirstRuby
 
 TODO: Write a gem description
