@@ -1,4 +1,4 @@
-# Firstruby
+# FirstRuby
 
 TODO: Write a gem description
 
